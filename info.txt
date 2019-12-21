@@ -1,0 +1,5 @@
+Potato game est un jeu android assez simple destiné à Android et plus
+il faut cliquer sur un bonhomme qui se déplace aléatoirement dans l'écran
+il y a un temps limité et un score
+Potato Man est le fichier du projet android studio code
+Potato-display est le fichier contenant le sous fichier release avec le sdk 
